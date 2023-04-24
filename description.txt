@@ -1,0 +1,1 @@
+A short JavaScript implementation of the Asteroids game.
